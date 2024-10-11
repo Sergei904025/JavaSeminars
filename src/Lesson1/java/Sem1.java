@@ -33,9 +33,8 @@ public class Sem1 {
         for (int i = 0; i < Math.abs(b); i++) {
             result *= a;
         }
-        return b > 0 ? result : 1/result;
+        return b > 0 ? result : 1 / result;
     }
-
 
 
     public static void task3() {
@@ -102,6 +101,4 @@ public class Sem1 {
 
 
     }
-
-
 }
